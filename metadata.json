@@ -1,0 +1,6 @@
+{
+  "name": "Memployment — Industrial & Skilled Workforce Marketplace",
+  "description": "Find Work. Hire Faster. Build Better Opportunities. A full-stack employment marketplace and workforce management platform connecting skilled workers, factories, contractors, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
